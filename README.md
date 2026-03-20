@@ -19,7 +19,7 @@ This repository contains practical machine learning experiments and ready-to-run
 - Correlation metrics
 - Feature insights
 
-## Purpose
+### Purpose
 - Provide practical, ready-to-use machine learning examples
 - Demonstrate model implementation, evaluation, and visualization
 - Serve as a reference for applied machine learning techniques
