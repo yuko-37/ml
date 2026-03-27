@@ -11,6 +11,7 @@ This repository contains practical machine learning experiments and ready-to-run
 
 ### 2. Unsupervised Learning
 - K-Means Clustering
+- Hierarchical Clustering (Linkage Criteria)
 - Isolation Forest (Anomaly Detection)
 
 ### 3. Data Analysis & Visualization
